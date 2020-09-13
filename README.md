@@ -7,4 +7,4 @@ Integrating your WooCommerce site with Og Pay checkout services allows you to ac
 -WordPress v3.9.2 or Higher (WooCommerce v2.6 or Higher)
 
 # Extension Setup Guide
-Visit https://oneglobal.gitbook.io/ogcheckout/plugins-setup-guide/woocommerce
+Visit https://checkoutdocs.oneglobal.com/plugins-setup-guide/woocommerce
